@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EyobAnberbir
+- 👋 Hi, I’m @Mikiyas Anberbir
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-EyobAnberbir/EyobAnberbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mikiyas Anberbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
